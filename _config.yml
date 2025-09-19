@@ -16,15 +16,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+footer-links: 버블팝
+  dribbble: 버블버블
+  email: 팝팝
+  facebook: 있는 그대로 생각해봐
+  flickr: 보이는 대로 날 바라봐줘
+  github: yoonhoyoung-creator.github.io
+  instagram: 거품처럼 커진 맘을
+  linkedin: 버블븗르팝팝
+  pinterest: 우
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
